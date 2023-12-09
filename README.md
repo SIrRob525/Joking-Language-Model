@@ -1,2 +1,2 @@
 # Joking-Language-Model
-Нейронная сеть по написанию шуток, обученная на анекдотах из Вконтакте
+Neural Network for writing jokes, trained on submissions from r/Jokes subreddit.
